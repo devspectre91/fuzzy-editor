@@ -1,0 +1,12 @@
+#root{
+    min-height: 105vh;
+    padding: 1rem 0;
+}
+
+.html-editor, .css-editor{
+    min-height: 50vh;
+}
+
+.pointing{
+    cursor: pointer;
+}
